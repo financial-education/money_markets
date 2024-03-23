@@ -1,0 +1,39 @@
+#+title: Short-Term Debt (Money) Markets 
+#+author: Matt Brigida, Ph.D.
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+#+HTML_HEAD: <style>pre.src{background:#343131;color:white;} </style>
+#+PROPERTY: header-args    :exports none
+
+Money market securities are debt securities with a maturity of one year or less. Remembering the definition of /money/:
+
+#+begin_example
+Money is anything that (1) is a medium of exchange, and (2) a store of value.
+#+end_example
+
+We call them /money market/ securities because they function as money in the economy.  Because they have little interest rate risk they are a good /store of value/.
+
+* Ask Llama2
+
+#+begin_export html
+<iframe src="https://ai-llama2-example.mdbrigida.workers.dev/" scrolling="no" frameborder="0" style="overflow:hidden; width:670px; height:525px;" allowTransparency="true" loading="lazy"></iframe>
+#+end_export
+
+
+* Specific Money Market Securities
+
+** Treasury Bills (T Bills)
+
+T Bills are short-term debt securities issued by the US Treasury.  You can read about t Bills here:  
+
+** Repurchase Agreements (Repos)
+
+Repos are the most important security that you have never heard of.  They are simply collateralized loans, however these loans can be very useful for managing cash and a firm's balance sheet.
+
+
+#+begin_export html
+<iframe src="https://fred.stlouisfed.org/graph/graph-landing.php?g=1ibh6&width=670&height=475" scrolling="no" frameborder="0" style="overflow:hidden; width:670px; height:525px;" allowTransparency="true" loading="lazy"></iframe>
+#+end_export
+
+*** Repo 105
+
+Repo 105 is an example of how banks can use repos to manage their balance sheet.  

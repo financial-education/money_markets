@@ -25,6 +25,19 @@ We call them /money market/ securities because they function as money in the eco
 
 T Bills are short-term debt securities issued by the US Treasury.  You can read about t Bills here:  
 
+** Commercial Paper
+
+Commercial paper is short term borrowing (less than 270 days) by corporations.  Because these are corporate borrowers there is default risk, however the risk in generally minimal for most Commercial Paper.  In fact, the chart below shows the rate on AA Commercial paper versus Federal Funds.  
+
+#+begin_export html
+<iframe src="https://fred.stlouisfed.org/graph/graph-landing.php?g=1iSzG&width=670&height=475" scrolling="no" frameborder="0" style="overflow:hidden; width:670px; height:525px;" allowTransparency="true" loading="lazy"></iframe>
+#+end_export
+
+Commercial paper rated lower than AA may have a higher interest rate however.  [[https://www.federalreserve.gov/releases/cp/about.htm][Ratings for commercial paper are summarized here.]]
+
+When valuing/rating commercial we care about short-term solvency measures such as the current or quick ratios.
+
+
 ** Repurchase Agreements (Repos)
 
 Repos are the most important security that you have never heard of.  They are simply collateralized loans, however these loans can be very useful for managing cash and a firm's balance sheet.
